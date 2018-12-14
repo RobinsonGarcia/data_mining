@@ -1,0 +1,361 @@
+1503468802890	geckodriver	INFO	Listening on 127.0.0.1:46169
+1503468804075	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1503468805832	Marionette	INFO	Enabled via --marionette
+1503468809893	Marionette	INFO	Listening on port 37725
+1503468810502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503468810614	Marionette	DEBUG	loaded listener.js
+1503468810726	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503468811053	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503468811054	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503468812088	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/search?q=-image%20of%20gas%20leak&source=lnms&tbm=isch"
+1503468813066	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503468813671	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/search?q=-image%20of%20gas%20leak&source=lnms&tbm=isch"
+1503468813678	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/search?q=-image%20of%20gas%20leak&source=lnms&tbm=isch"
+1503468814461	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/search?q=-image%20of%20gas%20leak&source=lnms&tbm=isch"
+1503468824132	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503468834343	Marionette	INFO	New connections will no longer be accepted
+[Child 6759] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1503468957935	geckodriver	INFO	Listening on 127.0.0.1:38007
+1503468959125	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1503468960753	Marionette	INFO	Enabled via --marionette
+1503468964375	Marionette	INFO	Listening on port 40799
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503468964464	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503468964579	Marionette	DEBUG	loaded listener.js
+1503468964712	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503468965146	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503468965146	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503468966063	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/search?q=pipe%20leakage&source=lnms&tbm=isch"
+1503468966874	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503468967237	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/search?q=pipe%20leakage&source=lnms&tbm=isch"
+1503468967241	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/search?q=pipe%20leakage&source=lnms&tbm=isch"
+1503468967481	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/search?q=pipe%20leakage&source=lnms&tbm=isch"
+1503468975769	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503468984646	Marionette	INFO	New connections will no longer be accepted
+[Child 10075] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10075] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1503469142939	geckodriver	INFO	Listening on 127.0.0.1:35503
+1503469144128	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1503469145735	Marionette	INFO	Enabled via --marionette
+1503469148894	Marionette	INFO	Listening on port 34569
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503469149263	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503469149391	Marionette	DEBUG	loaded listener.js
+1503469149568	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503469149988	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503469149989	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503469150918	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/search?q=pipe%20leakage&source=lnms&tbm=isch"
+1503469152040	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503469152406	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/search?q=pipe%20leakage&source=lnms&tbm=isch"
+1503469152411	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/search?q=pipe%20leakage&source=lnms&tbm=isch"
+1503469153216	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/search?q=pipe%20leakage&source=lnms&tbm=isch"
+1503469156699	Marionette	INFO	New connections will no longer be accepted
+[Child 14096] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1503469199978	geckodriver	INFO	Listening on 127.0.0.1:40089
+1503469201167	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1503469202785	Marionette	INFO	Enabled via --marionette
+1503469205976	Marionette	INFO	Listening on port 42779
+1503469206035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503469206218	Marionette	DEBUG	loaded listener.js
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503469206459	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503469206927	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503469206928	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503469207928	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/search?q=pipe%20leakage&source=lnms&tbm=isch"
+1503469209138	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503469209672	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/search?q=pipe%20leakage&source=lnms&tbm=isch"
+1503469209687	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/search?q=pipe%20leakage&source=lnms&tbm=isch"
+1503469210174	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/search?q=pipe%20leakage&source=lnms&tbm=isch"
+1503469233883	Marionette	INFO	New connections will no longer be accepted
+[Child 15380] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 15380] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1503469789339	geckodriver	INFO	Listening on 127.0.0.1:51649
+1503469790518	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1503469792153	Marionette	INFO	Enabled via --marionette
+1503469795350	Marionette	INFO	Listening on port 37875
+1503469795738	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503469795878	Marionette	DEBUG	loaded listener.js
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503469796047	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503469796699	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503469796700	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503469798620	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/search?q=pipe&source=lnms&tbm=isch"
+1503469799471	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503469800255	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/search?q=pipe&source=lnms&tbm=isch"
+1503469800259	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/search?q=pipe&source=lnms&tbm=isch"
+1503469800539	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/search?q=pipe&source=lnms&tbm=isch"
+1503469824248	Marionette	INFO	New connections will no longer be accepted
+[Child 27612] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 27612] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1503470109012	geckodriver	INFO	Listening on 127.0.0.1:41977
+1503470110200	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1503470111807	Marionette	INFO	Enabled via --marionette
+1503470115385	Marionette	INFO	Listening on port 44811
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503470115676	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503470115794	Marionette	DEBUG	loaded listener.js
+1503470115884	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503470116357	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503470116358	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503470118047	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/search?q=pipe%20lekage&source=lnms&tbm=isch"
+1503470119266	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503470119669	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/search?q=pipe%20lekage&source=lnms&tbm=isch"
+1503470119675	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/search?q=pipe%20lekage&source=lnms&tbm=isch"
+1503470119810	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/search?q=pipe%20lekage&source=lnms&tbm=isch"
+1503470129265	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503470139495	Marionette	INFO	New connections will no longer be accepted
+[Child 2291] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2291] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1543843298689	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iluaCVBv2E5N"
+
+(firefox:6212): IBUS-WARNING **: 08:21:39.271: The owner of /home/alien/.config/ibus/bus is not alien!
+1543843300219	Marionette	INFO	Listening on port 40781
+1543843300313	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543843310137	Marionette	INFO	Stopped listening on port 40781
+[Parent 6212, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543843478457	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.X0tvsGXuXDJQ"
+
+(firefox:7634): IBUS-WARNING **: 08:24:38.908: The owner of /home/alien/.config/ibus/bus is not alien!
+1543843479857	Marionette	INFO	Listening on port 43699
+1543843479867	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543843489323	Marionette	INFO	Stopped listening on port 43699
+[Parent 7634, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543843506795	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.v4ukt6gHg8kY"
+
+(firefox:7907): IBUS-WARNING **: 08:25:07.243: The owner of /home/alien/.config/ibus/bus is not alien!
+1543843508273	Marionette	INFO	Listening on port 45519
+1543843508303	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543843525411	Marionette	INFO	Stopped listening on port 45519
+[Parent 7907, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543843638695	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kcWJNH3Z2GfP"
+
+(firefox:8686): IBUS-WARNING **: 08:27:19.185: The owner of /home/alien/.config/ibus/bus is not alien!
+1543843640072	Marionette	INFO	Listening on port 39777
+1543843640108	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543843657469	Marionette	INFO	Stopped listening on port 39777
+[Parent 8686, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543843691316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.H2CaOSKlJGY6"
+
+(firefox:8967): IBUS-WARNING **: 08:28:11.770: The owner of /home/alien/.config/ibus/bus is not alien!
+1543843692662	Marionette	INFO	Listening on port 36153
+1543843692726	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543843716791	Marionette	INFO	Stopped listening on port 36153
+[Parent 8967, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543843793907	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.okA8GkJ5ravf"
+
+(firefox:9739): IBUS-WARNING **: 08:29:54.354: The owner of /home/alien/.config/ibus/bus is not alien!
+1543843795340	Marionette	INFO	Listening on port 40373
+1543843795425	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543843812315	Marionette	INFO	Stopped listening on port 40373
+[Parent 9739, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543843903789	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oPEwdlYG8Xtz"
+
+(firefox:10059): IBUS-WARNING **: 08:31:44.244: The owner of /home/alien/.config/ibus/bus is not alien!
+1543843905146	Marionette	INFO	Listening on port 37233
+1543843905200	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543843914659	Marionette	INFO	Stopped listening on port 37233
+[Parent 10059, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543843970853	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2SKYmt1SOi7E"
+
+(firefox:10332): IBUS-WARNING **: 08:32:51.287: The owner of /home/alien/.config/ibus/bus is not alien!
+1543843972212	Marionette	INFO	Listening on port 35063
+1543843972267	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543843990384	Marionette	INFO	Stopped listening on port 35063
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+[Parent 10332, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543844389999	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VD4rMEKLf68F"
+
+(firefox:10841): IBUS-WARNING **: 08:39:50.460: The owner of /home/alien/.config/ibus/bus is not alien!
+1543844391340	Marionette	INFO	Listening on port 42749
+1543844391415	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543844410776	Marionette	INFO	Stopped listening on port 42749
+[Parent 10841, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543844761726	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9rFmGjFOJ0dQ"
+
+(firefox:11967): IBUS-WARNING **: 08:46:02.193: The owner of /home/alien/.config/ibus/bus is not alien!
+1543844763162	Marionette	INFO	Listening on port 35687
+1543844763232	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543844797874	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.r7wcEItCCmgA"
+
+(firefox:12353): IBUS-WARNING **: 08:46:38.345: The owner of /home/alien/.config/ibus/bus is not alien!
+1543844799230	Marionette	INFO	Listening on port 37047
+1543844799287	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543845045156	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lAJ6JvBItYC6"
+
+(firefox:13368): IBUS-WARNING **: 08:50:45.608: The owner of /home/alien/.config/ibus/bus is not alien!
+1543845046575	Marionette	INFO	Listening on port 34223
+1543845046661	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543845351729	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XVsV8zLq2WcY"
+
+(firefox:14005): IBUS-WARNING **: 08:55:52.192: The owner of /home/alien/.config/ibus/bus is not alien!
+1543845353147	Marionette	INFO	Listening on port 42191
+1543845353235	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543845397304	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.u3eYrgPFAivb"
+
+(firefox:14299): IBUS-WARNING **: 08:56:37.751: The owner of /home/alien/.config/ibus/bus is not alien!
+1543845398712	Marionette	INFO	Listening on port 34675
+1543845398808	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543845584127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2SzJU2Pf5gyI"
+
+(firefox:14631): IBUS-WARNING **: 08:59:44.589: The owner of /home/alien/.config/ibus/bus is not alien!
+1543845585616	Marionette	INFO	Listening on port 41421
+1543845585639	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543845674996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ETooak4sYrEj"
+
+(firefox:15155): IBUS-WARNING **: 09:01:15.450: The owner of /home/alien/.config/ibus/bus is not alien!
+1543845676385	Marionette	INFO	Listening on port 44747
+1543845676402	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543845746971	Marionette	INFO	Stopped listening on port 44747
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+[Parent 14631, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543845845778	Marionette	INFO	Stopped listening on port 41421
+[Parent 13368, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 14005, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 14005, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+1543845854352	Marionette	INFO	Stopped listening on port 34223
+[Parent 14299, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543845854389	Marionette	INFO	Stopped listening on port 42191
+[Parent 12353, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+1543845854497	Marionette	INFO	Stopped listening on port 34675
+1543845854513	Marionette	INFO	Stopped listening on port 37047
+1543846219468	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FtGxojnGYlAK"
+
+(firefox:16109): IBUS-WARNING **: 09:10:19.930: The owner of /home/alien/.config/ibus/bus is not alien!
+1543846220868	Marionette	INFO	Listening on port 37829
+1543846220879	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543846513728	Marionette	INFO	Stopped listening on port 37829
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+[Parent 16109, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543846642436	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EF2SznLJl6TL"
+
+(firefox:19431): IBUS-WARNING **: 09:17:22.881: The owner of /home/alien/.config/ibus/bus is not alien!
+1543846643812	Marionette	INFO	Listening on port 35777
+1543846643844	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543846729203	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jqXw6VnKlEWl"
+
+(firefox:19714): IBUS-WARNING **: 09:18:49.688: The owner of /home/alien/.config/ibus/bus is not alien!
+1543846730661	Marionette	INFO	Listening on port 35713
+1543846730707	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543846962657	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BJXfc80T6aLd"
+
+(firefox:20105): IBUS-WARNING **: 09:22:43.140: The owner of /home/alien/.config/ibus/bus is not alien!
+1543846964824	Marionette	INFO	Listening on port 42813
+1543846964865	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543847324572	Marionette	INFO	Stopped listening on port 42813
+[Parent 20105, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543847382635	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0iezXZoHGBV6"
+
+(firefox:22904): IBUS-WARNING **: 09:29:43.080: The owner of /home/alien/.config/ibus/bus is not alien!
+1543847384006	Marionette	INFO	Listening on port 37711
+1543847384040	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543847394346	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.75yb07XtpesJ"
+
+(firefox:23172): IBUS-WARNING **: 09:29:54.802: The owner of /home/alien/.config/ibus/bus is not alien!
+1543847395709	Marionette	INFO	Listening on port 45325
+1543847395751	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543847468523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jIohjzpjpw23"
+
+(firefox:23710): IBUS-WARNING **: 09:31:09.042: The owner of /home/alien/.config/ibus/bus is not alien!
+1543847469935	Marionette	INFO	Listening on port 40045
+1543847470036	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543847817146	Marionette	INFO	Stopped listening on port 40045
+[Parent 23710, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
